@@ -28,5 +28,14 @@ text-align: left;
 
 #body_back2{
 	background-color: pink;
+
+
+
+}
+
+
+#player1_name , #player2_name{
+	display: inline-block;
+	margin-left: 20px;
 }
 
